@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootH2DbApplicationTests {
+public class Swagger2ApplicationTests {
 
 	@Test
 	public void contextLoads() {
