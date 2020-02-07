@@ -1,2 +1,3 @@
-# TemplateProject
-Template Spring Boot and H2 Database project
+# Swagger2SpringBootApp
+
+Template Spring Boot and Swagger2 Integration
